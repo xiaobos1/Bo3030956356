@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jdbctext/Jdbctext.iml" filepath="$PROJECT_DIR$/Jdbctext/Jdbctext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d8_thread/d8_thread.iml" filepath="$PROJECT_DIR$/d8_thread/d8_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lian.iml" filepath="$PROJECT_DIR$/lian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven_demo/maven_demo.iml" filepath="$PROJECT_DIR$/../maven_demo/maven_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-app/thread-app.iml" filepath="$PROJECT_DIR$/thread-app/thread-app.iml" />
+    </modules>
+  </component>
+</project>
